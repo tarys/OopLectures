@@ -1,0 +1,11 @@
+Yoda, Jedi, 0.66, green, Qui-Gon Jinn (Force spirit), [Dooku, Obi-Wan Kenobi, Luke Skywalker]
+Qui-Gon Jinn, Jedi, 1.93, light-blue, Dooku, Obi-Wan Kenobi, Anakin Skywalker, Yoda (as a Force spirit)
+Obi-Wan Kenobi, Jedi, 1.82, blue, [Yoda, Qui-Gon Jinn], [Anakin Skywalker, Luke Skywalker]
+Anakin Skywalker, Jedi, 1.88, blue, [Qui-Gon Jinn, Obi-Wan Kenobi], Ahsoka Tano
+Luke Skywalker, Jedi, 1.72, green, null, [Obi-Wan Kenobi, Yoda]
+
+
+Sheev Palpatine, Sith, 1.73, null, Darth Plagueis, [Darth Maul, Darth Tyranus, Darth Vader]
+Darth Vader, Sith, 2.03, red, Sheev Palpatine, The Inquisitor
+Darth Maul, Sith, 1.75, red, Darth Sidious, Savage Opress
+Dooku, Sith, 1.93, red, [Yoda, Darth Sidiou], [Qui-Gon Jinn, Grievous, Asajj Ventress, Savage Opress]
